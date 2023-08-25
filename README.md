@@ -1,5 +1,5 @@
 ## Currency Converter
-In this, I am gonna showing to you how to code a currency converter using JavaScript with api. in this video i'm using exchangerate-api to get exchange rates. Also this code is fully responsive and we used a flag icons api in this project❗️
+In this, I am gonna showing to you how to code a currency converter using JavaScript with api. I'm using exchangerate-api to get exchange rates. Also this code is fully responsive and we used a flag icons api in this project❗️
 GitHub pages: https://ankit-saha-iiitbbsr.github.io/currency-converter/
 
 ## Warning
